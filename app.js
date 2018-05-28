@@ -1,6 +1,6 @@
 window.onload = function () {
 
-    var age = prompt("How old are you?");
+    let age = prompt("How old are you?");
 
     if (age == 0){
        alert("Aw, you are a baby")
